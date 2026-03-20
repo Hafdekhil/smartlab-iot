@@ -1,0 +1,5 @@
+paho-mqtt
+gpiozero
+mysql-connector-python
+adafruit-blinka
+adafruit-circuitpython-dht
