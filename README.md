@@ -1,5 +1,7 @@
 # Ahuntsic SmartLab — Mini-système IoT supervisé
 
+[Lien vers le dépôt GitHub](https://github.com/Hafdekhil/smartlab-iot01)
+
 ## 1. Présentation du projet
 
 Ce projet réalise un mini-système IoT supervisé avec Raspberry Pi.  
